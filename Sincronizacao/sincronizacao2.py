@@ -1,3 +1,5 @@
+#código errado para testar a troca da ordem das chamadas de wait dos semáforos mutex e empty/full
+
 import threading
 import time
 
